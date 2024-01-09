@@ -1,0 +1,24 @@
+Ime i prezime: Luka Bosnić
+OIB: 123456789
+Adresa: Varaždinska 14 
+Količina: 100000
+Kamate: 5
+Trajanje ugovora: 10
+Jamac: Damir Bosnić
+
+Ime i prezime: Marin Bosnić
+OIB: 987654321
+Adresa: Varaždinska 14
+Količina: 10000
+Kamate: 5
+Trajanje ugovora: 5
+Jamac: Damir Bosnić
+
+Ime i prezime: Klara Katić
+OIB: 321654987
+Adresa: Putb Podstrane 17
+Količina: 10000
+Kamate: 10
+Trajanje ugovora: 10
+Jamac: Ivica Katić
+

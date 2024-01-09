@@ -1,0 +1,16 @@
+Ime i prezime: Marin Lagator
+OIB: 654987321
+Adresa: Put Kamena 71
+Količina: 10000
+Kamate: 10
+Trajanje ugovora: 5
+
+
+Ime i prezime:  
+OIB: 1234567891231
+Adresa: 
+Količina: 
+Kamate: 
+Trajanje ugovora: 
+
+
